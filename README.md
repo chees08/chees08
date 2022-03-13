@@ -3,8 +3,8 @@
 - 🔭 I’m currently final year Software Development student.
 - 🌱 I’m currently learning Python / HTML / CSS
 - 🤔 I’m looking for help with JavaScript
-- 😄 Pronouns: He / His
-- ⚡ Fun fact: I spend almost 4 hours playing video games.
+- ⚡ Pronouns: He / His
+- 😄 Fun fact: I spend almost 4 hours playing video games.
 
 ## 📬 How to reach me?
 
